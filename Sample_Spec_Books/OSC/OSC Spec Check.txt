@@ -1,0 +1,326 @@
+OSC SPEC Check:
+
+Section 010000:
+Reference Check:
+	007200 appears 2 times
+'//' appears 2 times
+
+Section 013323:
+Reference Check:
+	007200 appears 1 time
+
+Section 014219:
+Reference Check:
+	120786 appears 1 time
+'//' appears 1 time
+
+Section 018111:
+Reference Check:
+	033000 appears 1 time
+	018109 appears 1 time
+
+Section 019100:
+Reference Check:
+	260800 appears 1 time
+	270800 appears 1 time
+	280800 appears 1 time
+
+Section 028211:
+Reference Check:
+	220519 appears 1 time
+	220533 appears 1 time
+	221323 appears 1 time
+	221400 appears 1 time
+	226600 appears 1 time
+	231123 appears 1 time
+	232213 appears 1 time
+	007200 appears 1 time
+'//' appears 2 times
+
+Section 028333.13:
+'//' appears 1 time
+
+Section 055000:
+Reference Check:
+	090600 appears 1 time
+
+Section 062000:
+Reference Check:
+	085619 appears 1 time
+
+Section 078100:
+Reference Check:
+	014529 appears 1 time
+
+Section 079200:
+Reference Check:
+	042000 appears 1 time
+
+Section 079513:
+Reference Check:
+	076000 appears 1 time
+	077200 appears 1 time
+
+Section 081113:
+Reference Check:
+	134900 appears 1 time
+
+Section 087100:
+Reference Check:
+	081710 appears 1 time
+	134900 appears 1 time
+
+Section 087113:
+Reference Check:
+	281316 appears 1 time
+
+Section 089000:
+Reference Check:
+	134900 appears 1 time
+
+Section 090516:
+Reference Check:
+	096723.20 appears 1 time
+	096723.30 appears 1 time
+	096800 appears 1 time
+	088111 appears 1 time
+
+Section 092216:
+Reference Check:
+	054000 appears 1 time
+	088111 appears 1 time
+
+Section 092900:
+Reference Check:
+	072113 appears 1 time
+	088111 appears 1 time
+
+Section 093013:
+Reference Check:
+	090600 appears 2 times
+
+Section 095100:
+Reference Check:
+	088111 appears 1 time
+
+Section 096513:
+Reference Check:
+	011811 appears 1 time
+	090600 appears 1 time
+
+Section 096516:
+Reference Check:
+	033000 appears 1 time
+	123100 appears 1 time
+	011811 appears 1 time
+
+Section 096519:
+Reference Check:
+	090600 appears 2 times
+	088111 appears 1 time
+
+Section 096623:
+Reference Check:
+	033000 appears 1 time
+	042000 appears 1 time
+	055100 appears 1 time
+	072616 appears 1 time
+	099000 appears 1 time
+	013119 appears 1 time
+	088111 appears 1 time
+	040513 appears 1 time
+	040516 appears 1 time
+	221500 appears 1 time
+	280533 appears 1 time
+	099659 appears 1 time
+	099419 appears 1 time
+'?' appears 4 times
+
+Section 099100:
+Reference Check:
+	088111 appears 1 time
+	040513 appears 1 time
+	040516 appears 1 time
+	221500 appears 1 time
+	280533 appears 1 time
+	099659 appears 1 time
+	099419 appears 1 time
+'?' appears 4 times
+
+Section 101400:
+Reference Check:
+	101300 appears 1 time
+	090600 appears 3 times
+	013300 appears 1 time
+	033053 appears 1 time
+	051200 appears 1 time
+	088111 appears 1 time
+
+Section 102123:
+Reference Check:
+	088111 appears 1 time
+
+Section 102600:
+Reference Check:
+	090600 appears 2 times
+	101811 appears 1 time
+	088111 appears 1 time
+
+Warning! Unable to find Section 104413 in the body.
+
+Section 122400:
+Reference Check:
+	088111 appears 1 time
+
+Section 123200:
+Reference Check:
+	090600 appears 1 time
+	088111 appears 1 time
+
+Section 123600:
+Reference Check:
+	088111 appears 1 time
+
+Section 210511:
+Reference Check:
+	033000 appears 1 time
+
+Section 210800:
+Reference Check:
+	011900 appears 3 times
+
+Section 211313:
+Reference Check:
+	211200 appears 1 time
+
+Section 220511:
+Reference Check:
+	053100 appears 1 time
+	053600 appears 1 time
+	076000 appears 1 time
+	220512 appears 1 time
+	230923 appears 2 times
+	262911 appears 1 time
+	033000 appears 1 time
+'//' appears 2 times
+
+Section 220523:
+'//' appears 9 times
+
+Section 220711:
+Reference Check:
+	220519 appears 1 time
+
+Section 220800:
+Reference Check:
+	011900 appears 2 times
+
+Section 224000:
+Reference Check:
+	102113 appears 2 times
+
+Section 226200:
+Reference Check:
+	260521 appears 1 time
+	102513 appears 1 time
+	220512 appears 1 time
+	230923 appears 1 time
+	262911 appears 1 time
+
+Section 226300:
+Reference Check:
+	260521 appears 2 times
+	102513 appears 1 time
+	220512 appears 1 time
+	262911 appears 1 time
+
+Section 230511:
+Reference Check:
+	238216 appears 1 time
+	007200 appears 1 time
+	033000 appears 2 times
+
+Section 230711:
+'//' appears 3 times
+
+Section 230800:
+Reference Check:
+	011900 appears 2 times
+
+Section 232113:
+Reference Check:
+	232123 appears 1 time
+'//' appears 2 times
+
+Section 233100:
+Reference Check:
+	238216 appears 1 time
+
+Section 233700:
+Reference Check:
+	230923 appears 1 time
+	011900 appears 2 times
+	232123 appears 1 time
+	238216 appears 1 time
+'//' appears 6 times
+
+Section 260511:
+'SPEC WRITER NOTE' appears 1 time
+
+Section 260533:
+Reference Check:
+	076000 appears 1 time
+
+Section 270526:
+Reference Check:
+	271000 appears 1 time
+'//' appears 2 times
+'SPEC WRITER NOTE' appears 1 time
+
+Section 270533:
+Reference Check:
+	076000 appears 1 time
+
+Section 271500:
+Reference Check:
+	271000 appears 1 time
+	273100 appears 1 time
+'//' appears 1 time
+
+Section 275223:
+Reference Check:
+	260521 appears 1 time
+	271000 appears 3 times
+	271100 appears 9 times
+	541511 appears 1 time
+	149971 appears 1 time
+'//' appears 4 times
+'?' appears 18 times
+
+Section 283100:
+Reference Check:
+	280500 appears 1 time
+	280513 appears 4 times
+	280526 appears 2 times
+	280528.33 appears 3 times
+	280800 appears 1 time
+
+Section 312000:
+Reference Check:
+	014529 appears 1 time
+	007200 appears 1 time
+
+Section 320523:
+Reference Check:
+	014529 appears 1 time
+	007200 appears 1 time
+	033000 appears 1 time
+
+Section 321216:
+Reference Check:
+	014529 appears 1 time
+
+Section 329000:
+Reference Check:
+	014529 appears 1 time
+

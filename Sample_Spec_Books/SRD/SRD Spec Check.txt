@@ -1,0 +1,554 @@
+SRD SPEC Check:
+
+Warning! Unable to find Section 000115 in the body.
+
+Section 010000:
+Reference Check:
+	013526 appears 1 time
+	087100 appears 1 time
+	280511 appears 1 time
+'//' appears 45 times
+'?' appears 8 times
+'SPEC WRITER NOTE' appears 7 times
+
+Section 013216.15:
+'//' appears 4 times
+
+Section 014219:
+Reference Check:
+	120786 appears 1 time
+'//' appears 1 time
+
+Section 014529:
+'//' appears 37 times
+'SPEC WRITER NOTE' appears 5 times
+
+Section 015719:
+Reference Check:
+	312000 appears 1 time
+'//' appears 5 times
+
+Section 019100:
+Reference Check:
+	070800 appears 1 time
+	210800 appears 1 time
+	330800 appears 1 time
+'//' appears 4 times
+'SPEC WRITER NOTE' appears 2 times
+
+Section 024100:
+Reference Check:
+	312000 appears 1 time
+	013526 appears 1 time
+	013300 appears 1 time
+	017329 appears 1 time
+
+Section 033000:
+'?' appears 2 times
+'SPEC WRITER NOTE' appears 1 time
+
+Warning! Unable to find Section 040513 in the body.
+
+Warning! Unable to find Section 040516 in the body.
+
+Section 042000:
+Reference Check:
+	090600 appears 1 time
+
+Section 051200:
+Reference Check:
+	078100 appears 1 time
+
+Warning! Unable to find Section 055000 in the body.
+
+Warning! Unable to find Section 061000 in the body.
+
+Warning! Unable to find Section 062000 in the body.
+
+Warning! Unable to find Section 071352 in the body.
+
+Warning! Unable to find Section 072113 in the body.
+
+Warning! Unable to find Section 072200 in the body.
+
+Warning! Unable to find Section 076000 in the body.
+
+Warning! Unable to find Section 077100 in the body.
+
+Warning! Unable to find Section 077200 in the body.
+
+Warning! Unable to find Section 078400 in the body.
+
+Warning! Unable to find Section 079200 in the body.
+
+Warning! Unable to find Section 081113 in the body.
+
+Section 081400:
+Reference Check:
+	083453 appears 1 time
+	083300 appears 1 time
+	085653 appears 1 time
+	087100 appears 3 times
+	088000 appears 1 time
+	090600 appears 2 times
+	089000 appears 1 time
+	134900 appears 1 time
+	281300 appears 1 time
+	281611 appears 1 time
+	285100 appears 1 time
+'//' appears 41 times
+'SPEC WRITER NOTE' appears 7 times
+
+Section 081710:
+Reference Check:
+	087100 appears 1 time
+	087113 appears 1 time
+	087113.11 appears 1 time
+	281311 appears 1 time
+'//' appears 13 times
+'SPEC WRITER NOTE' appears 1 time
+
+Warning! Unable to find Section 083113 in the body.
+
+Warning! Unable to find Section 084113 in the body.
+
+Warning! Unable to find Section 085113 in the body.
+
+Section 090516:
+Reference Check:
+	096723.20 appears 1 time
+
+Section 092216:
+Reference Check:
+	054000 appears 1 time
+	092900 appears 1 time
+'//' appears 2 times
+
+Section 093013:
+Reference Check:
+	079513 appears 2 times
+	090600 appears 4 times
+	096800 appears 1 time
+'//' appears 14 times
+'SPEC WRITER NOTE' appears 3 times
+
+Section 095100:
+Reference Check:
+	090600 appears 4 times
+	095423 appears 1 time
+'//' appears 36 times
+'?' appears 6 times
+'SPEC WRITER NOTE' appears 6 times
+
+Section 096513:
+'?' appears 1 time
+
+Section 096516:
+Reference Check:
+	090600 appears 1 time
+'?' appears 12 times
+
+Section 096519:
+Reference Check:
+	090600 appears 1 time
+'?' appears 6 times
+
+Section 099100:
+Reference Check:
+	090600 appears 18 times
+	099659 appears 2 times
+	099419 appears 2 times
+	028333.13 appears 1 time
+	280533 appears 2 times
+	221500 appears 1 time
+	226113.74 appears 1 time
+	226119.74 appears 1 time
+	226219.74 appears 1 time
+'//' appears 153 times
+'?' appears 4 times
+'SPEC WRITER NOTE' appears 15 times
+
+Section 101113:
+Reference Check:
+	090600 appears 1 time
+
+Section 101123:
+Reference Check:
+	090600 appears 1 time
+
+Section 101400:
+Reference Check:
+	101300 appears 1 time
+	090600 appears 2 times
+	013300 appears 1 time
+	033053 appears 1 time
+
+Section 102513:
+Reference Check:
+	090600 appears 2 times
+	260521 appears 2 times
+'//' appears 29 times
+'SPEC WRITER NOTE' appears 4 times
+
+Section 102600:
+Reference Check:
+	087100 appears 1 time
+	090600 appears 2 times
+
+Section 102800:
+Reference Check:
+	090600 appears 3 times
+'//' appears 44 times
+'SPEC WRITER NOTE' appears 8 times
+
+Section 104413:
+Reference Check:
+	088000 appears 1 time
+'//' appears 1 time
+'SPEC WRITER NOTE' appears 1 time
+
+Section 117300:
+'//' appears 1 time
+'SPEC WRITER NOTE' appears 1 time
+
+Section 122400:
+'//' appears 3 times
+
+Section 123100:
+Reference Check:
+	090600 appears 2 times
+	123400 appears 1 time
+	123611 appears 2 times
+'//' appears 6 times
+
+Section 123200:
+Reference Check:
+	090600 appears 1 time
+'//' appears 47 times
+'SPEC WRITER NOTE' appears 1 time
+
+Warning! Unable to find Section 123600 in the body.
+
+Section 130541:
+Reference Check:
+	123400 appears 1 time
+'//' appears 18 times
+'SPEC WRITER NOTE' appears 7 times
+
+Section 220511:
+Reference Check:
+	053100 appears 2 times
+	230923 appears 2 times
+	262911 appears 3 times
+	312000 appears 1 time
+
+Section 220512:
+Reference Check:
+	262419 appears 1 time
+	262911 appears 1 time
+
+Section 220519:
+Reference Check:
+	251010 appears 1 time
+'//' appears 13 times
+'SPEC WRITER NOTE' appears 2 times
+
+Section 220523:
+'//' appears 3 times
+
+Section 220711:
+Reference Check:
+	263213 appears 1 time
+
+Section 220800:
+Reference Check:
+	011900 appears 2 times
+
+Section 221123:
+Reference Check:
+	262911 appears 1 time
+
+Section 221300:
+'//' appears 3 times
+
+Section 223400:
+Reference Check:
+	235600 appears 1 time
+'SPEC WRITER NOTE' appears 1 time
+
+Section 223500:
+Reference Check:
+	235600 appears 1 time
+
+Section 224000:
+Reference Check:
+	102113 appears 2 times
+'//' appears 4 times
+
+Section 226200:
+Reference Check:
+	230923 appears 1 time
+	260521 appears 1 time
+	262911 appears 1 time
+'?' appears 2 times
+
+Section 226300:
+Reference Check:
+	230923 appears 2 times
+	260521 appears 2 times
+	262911 appears 1 time
+'?' appears 2 times
+
+Section 226719.16:
+Reference Check:
+	260521 appears 1 time
+	262911 appears 1 time
+'//' appears 1 time
+
+Warning! Unable to find Section 230511 in the body.
+
+Warning! Unable to find Section 230512 in the body.
+
+Warning! Unable to find Section 230541 in the body.
+
+Warning! Unable to find Section 230593 in the body.
+
+Warning! Unable to find Section 230711 in the body.
+
+Warning! Unable to find Section 230800 in the body.
+
+Warning! Unable to find Section 232113 in the body.
+
+Warning! Unable to find Section 232213 in the body.
+
+Warning! Unable to find Section 232223 in the body.
+
+Warning! Unable to find Section 233100 in the body.
+
+Warning! Unable to find Section 233400 in the body.
+
+Warning! Unable to find Section 233600 in the body.
+
+Warning! Unable to find Section 233700 in the body.
+
+Warning! Unable to find Section 237300 in the body.
+
+Warning! Unable to find Section 238200 in the body.
+
+Warning! Unable to find Section 238216 in the body.
+
+Section 260511:
+'//' appears 2 times
+'SPEC WRITER NOTE' appears 2 times
+
+Section 260519:
+Reference Check:
+	260513 appears 1 time
+'//' appears 6 times
+
+Section 260526:
+Reference Check:
+	261219 appears 1 time
+	261313 appears 1 time
+	262313 appears 1 time
+	261316 appears 1 time
+	262300 appears 1 time
+	262413 appears 1 time
+	262419 appears 1 time
+	263213 appears 1 time
+	264100 appears 1 time
+'//' appears 20 times
+'SPEC WRITER NOTE' appears 8 times
+
+Section 260533:
+Reference Check:
+	312000 appears 1 time
+
+Section 260541:
+Reference Check:
+	312000 appears 2 times
+'SPEC WRITER NOTE' appears 1 time
+
+Section 260800:
+Reference Check:
+	011900 appears 3 times
+
+Section 260923:
+Reference Check:
+	230923 appears 2 times
+
+Section 262200:
+Reference Check:
+	159730 appears 1 time
+'SPEC WRITER NOTE' appears 1 time
+
+Section 262416:
+Reference Check:
+	251010 appears 1 time
+	260573 appears 1 time
+	260571 appears 1 time
+'//' appears 2 times
+
+Section 262726:
+'//' appears 12 times
+'SPEC WRITER NOTE' appears 2 times
+
+Section 263623:
+Reference Check:
+	260573 appears 1 time
+	262313 appears 1 time
+	263213 appears 1 time
+
+Section 265100:
+'//' appears 2 times
+'?' appears 4 times
+'SPEC WRITER NOTE' appears 1 time
+
+Section 270526:
+Reference Check:
+	271000 appears 1 time
+	264100 appears 1 time
+
+Section 270533:
+Reference Check:
+	312000 appears 1 time
+
+Section 270800:
+Reference Check:
+	011900 appears 3 times
+
+Warning! Unable to find Section 271100 in the body.
+
+Section 271500:
+Reference Check:
+	271000 appears 3 times
+	264100 appears 1 time
+	312000 appears 1 time
+	011900 appears 3 times
+	273100 appears 2 times
+'//' appears 2 times
+'?' appears 4 times
+'SPEC WRITER NOTE' appears 5 times
+
+Section 273131:
+Reference Check:
+	271000 appears 2 times
+	273100 appears 1 time
+
+Section 274131:
+Reference Check:
+	260521 appears 1 time
+	264100 appears 1 time
+	271000 appears 4 times
+'//' appears 4 times
+
+Section 275116:
+Reference Check:
+	260521 appears 1 time
+	264100 appears 1 time
+	271000 appears 3 times
+	281316 appears 1 time
+'//' appears 4 times
+
+Section 275123:
+Reference Check:
+	260521 appears 1 time
+	264100 appears 1 time
+	271000 appears 3 times
+'//' appears 4 times
+
+Section 275223:
+Reference Check:
+	260521 appears 1 time
+	264100 appears 1 time
+	271000 appears 3 times
+	541511 appears 1 time
+	149971 appears 1 time
+'//' appears 4 times
+'?' appears 5 times
+
+Section 280500:
+Reference Check:
+	081173 appears 1 time
+	083513.13 appears 1 time
+	083459 appears 1 time
+	087100 appears 1 time
+	142100 appears 1 time
+	142400 appears 1 time
+	260521 appears 1 time
+	265600 appears 1 time
+	281300 appears 1 time
+	281316 appears 1 time
+	281353 appears 1 time
+	281600 appears 1 time
+	282300 appears 1 time
+	282600 appears 1 time
+	323113 appears 1 time
+	013310 appears 2 times
+'//' appears 9 times
+'SPEC WRITER NOTE' appears 12 times
+
+Section 280513:
+Reference Check:
+	312000 appears 1 time
+
+Section 280526:
+Reference Check:
+	264100 appears 1 time
+'//' appears 2 times
+
+Section 280528.33:
+Reference Check:
+	312000 appears 1 time
+
+Section 280800:
+Reference Check:
+	011900 appears 3 times
+
+Section 283100:
+Reference Check:
+	087100 appears 1 time
+
+Section 312011:
+Reference Check:
+	007200 appears 1 time
+'//' appears 39 times
+
+Section 320523:
+Reference Check:
+	007200 appears 2 times
+	312000 appears 3 times
+'//' appears 5 times
+'SPEC WRITER NOTE' appears 4 times
+
+Section 321216:
+Reference Check:
+	312000 appears 1 time
+
+Section 321723:
+'?' appears 4 times
+
+Section 329000:
+Reference Check:
+	312000 appears 1 time
+	328400 appears 1 time
+'//' appears 9 times
+
+Section 331000:
+Reference Check:
+	312000 appears 1 time
+	251010 appears 1 time
+'//' appears 256 times
+'SPEC WRITER NOTE' appears 15 times
+
+Section 333000:
+Reference Check:
+	312000 appears 2 times
+'//' appears 15 times
+'SPEC WRITER NOTE' appears 4 times
+
+Section 334000:
+Reference Check:
+	312000 appears 1 time
+'//' appears 4 times
+

@@ -1,0 +1,12 @@
+How to use the spec check program:
+
+A. automatic entry
+1. export your full spec book pdf as a .txt file, and save it with a one word name in your "Program" folder
+2. double click "specCheck.sh", and bam, you're golden. follow instructions
+3. open the "Program" folder and find your finished spec Check
+
+B. manual entry
+1. export your index as a .txt file, and save it with a one word name in your "Program" folder
+2. export each section as a .txt file, and save it named ######.txt (e.g. save "09 91 00 Painting" as "099100") in your "Program" folder
+3. double click "specCheck.sh", and bam, you're golden. follow instructions
+4. open the "Program" folder and find your finished spec Check

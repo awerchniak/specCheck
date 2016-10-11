@@ -1,0 +1,2 @@
+cd ./desktop/Program
+./specCheck

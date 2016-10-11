@@ -1,0 +1,9 @@
+Potential bugs:
+
+1. Make sure the first time "SECTION" appears in all caps is the title of the first section at beginning of the body (DO NOT LET IT APPEAR IN ALL CAPS IN THE BEGINNING OF THE TABLE OF CONTENTS. IF THIS OCCURS, JUST EDIT YOUR .TXT FILE SO THAT IT IS NOT IN ALL CAPS).
+2. Make sure the title of every section is capitalized
+3. If a section appears in a format other than ######, ######.##…, ## ## ##, or ## ## ##.##… then the program will scan over it and not notice it. 
+	a. If there are two sections with the same original 8 digits, the program will run into problems. (e.g. if there is an 01 45 00.10 AND an 01 45 00.10.20 in the same document)
+4. Likewise, if the program encounters numbers formatted that way that are not section numbers, it will mistake them for section numbers (it often mistakes PO box numbers for sections)
+5. If the desktop shortcut doesn't open, open Command Prompt and type in "cd desktop/Program" and hit enter. Then type in "specCheckWindows.exe" and hit enter. the program should run, but you will have a bunch of junk. Type in "clearFiles.exe" and hit enter. This should correct the problem.
+6. This program was written on a Mac, so it is not bug checked too well (especially the clearFiles function) on a PC. If you encounter a problem, send me all the information you can and I will work on fixing it.
